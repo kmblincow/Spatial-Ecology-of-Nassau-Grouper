@@ -1,7 +1,7 @@
 # Spatial-Ecology-of-Nassau-Grouper
 
-This repository holds the code for the upcoming paper: 
-The spatial-ecology of Nassau grouper: Insights from acoustic tracking of this large, long-lived Serranid species across multiple seasons.
+This repository holds the code for the manuscript: 
+Blincow KM, Bush PG, Heppell SA, McCoy CM and others (2020) Spatial ecology of Nassau grouper at home reef sites: using acoustic telemetry to track a large, long-lived epinephelid across multiple years (2005-2008). Mar Ecol Prog Ser 655:199-214. https://doi.org/10.3354/meps13516
 
 Abstract:
 
